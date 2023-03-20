@@ -70621,7 +70621,7 @@ vG(a){return new A.wB(new A.bs(new A.afP(this,a),null),1500,null)},
 uL(){var s=0,r=A.X(t.z),q=this,p,o
 var $async$uL=A.Y(function(a,b){if(a===1)return A.U(b,r)
 while(true)switch(s){case 0:s=2
-return A.a6($.D_().a8R("txt/game.txt"),$async$uL)
+return A.a6($.D_().a8R("assets/txt/game.txt"),$async$uL)
 case 2:p=b
 o=A.aAk(B.aj.cB(0,p))
 q.e=o
